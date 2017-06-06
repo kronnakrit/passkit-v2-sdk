@@ -1,0 +1,27 @@
+{
+  "name": "passkit-v2-sdk",
+  "version": "0.1.0",
+  "description": "This package is inspired by passkit-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorosun/passkit-v2-sdk.git"
+  },
+  "keywords": [
+    "passkit"
+  ],
+  "author": "Ronnakrit Kunaviriyasiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zorosun/passkit-v2-sdk/issues"
+  },
+  "homepage": "https://github.com/zorosun/passkit-v2-sdk#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.4.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
