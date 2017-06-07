@@ -1,11 +1,11 @@
 # Passkit V2 SDK
----
+
 This node package is inspired by [passkit-sdk](https://github.com/TheHover/passkit-sdk)
 
 node >= 6.10.3
 
 # Installation
----
+
 ```
 npm isntall passkit-v2-sdk --save
 ```
