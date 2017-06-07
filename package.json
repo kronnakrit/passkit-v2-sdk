@@ -1,6 +1,6 @@
 {
   "name": "passkit-v2-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This package is inspired by passkit-sdk",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "passkit"
   ],
   "author": "Ronnakrit Kunaviriyasiri",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zorosun/passkit-v2-sdk/issues"
   },
