@@ -1,6 +1,6 @@
 {
   "name": "passkit-v2-sdk",
-  "version": "0.1.4",
+  "version": "0.2",
   "description": "This package is inspired by passkit-sdk",
   "main": "index.js",
   "scripts": {
