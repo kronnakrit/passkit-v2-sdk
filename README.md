@@ -44,10 +44,10 @@ This is default options
 
 ```javascript
 PasskitSDK.pass.get('passId')
-  .then(function(res) => {
+  .then(function(res) {
     // success
   })
-  .catch(function(err) => {
+  .catch(function(err) {
     // fail
     // err.message
   })
@@ -60,10 +60,10 @@ PasskitSDK.pass.get('passId')
 
 ```javascript
 PasskitSDK.pass.create(passObject)
-  .then(function(res) => {
+  .then(function(res) {
     // success
   })
-  .catch(function(err) => {
+  .catch(function(err) {
     // fail
     // err.message
   })
@@ -77,10 +77,10 @@ PasskitSDK.pass.create(passObject)
 
 ```javascript
 PasskitSDK.pass.update('passId', passObject)
-  .then(function(res) => {
+  .then(function(res) {
     // success
   })
-  .catch(function(err) => {
+  .catch(function(err) {
     // fail
     // err.message
   })
