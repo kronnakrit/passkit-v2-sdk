@@ -42,6 +42,8 @@ This is default options
 - Params: 'passId',
 - Output: 'json'
 
+> Note: This function does not require apiKey and apiSecret
+
 ```javascript
 PasskitSDK.pass.get('passId')
   .then(function(res) {
