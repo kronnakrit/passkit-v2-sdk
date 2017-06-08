@@ -15,7 +15,7 @@ npm isntall passkit-v2-sdk --save
 ## Initialize
 
 ```javascript
-var PasskitSDK = require('./lib/passkit-v2-sdk.js')();
+var PasskitSDK = require('passkit-v2-sdk');
 
 PasskitSDK.init({
   apiKey: 'yourapikey',
