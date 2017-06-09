@@ -87,3 +87,20 @@ PasskitSDK.pass.update('passId', passObject)
     // err.message
   })
 ```
+
+
+## Image
+
+- Method: 'POST'
+- Params: 'image'
+
+```javascript
+PasskitSDK.image.upload(image)
+  .then(function(res) {
+    // success
+  })
+  .catch(function(err) {
+    // fail
+    // err.message
+  })
+```
