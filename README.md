@@ -95,9 +95,10 @@ PasskitSDK.pass.update('passId', passObject)
 - Params: 'image'
 
 ```javascript
-PasskitSDK.image.upload(image)
+PasskitSDK.image.upload(__dirname + '/image.png')
   .then(function(res) {
     // success
+    // res.path
   })
   .catch(function(err) {
     // fail

@@ -1,6 +1,6 @@
 {
   "name": "passkit-v2-sdk",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "This package is inspired by passkit-sdk",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zorosun/passkit-v2-sdk#readme",
   "dependencies": {
+    "bluebird": "^3.5.0",
     "jsonwebtoken": "^7.4.1",
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
