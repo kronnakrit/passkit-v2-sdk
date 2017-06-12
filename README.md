@@ -34,6 +34,15 @@ This is default options
 };
 ```
 
+## General
+
+### Token
+
+To generate JWT token
+```javascript
+var token = PasskitSDK.generateToken('passId');
+```
+
 ## Pass
 
 ### Get pass
